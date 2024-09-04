@@ -10,3 +10,5 @@ The Image Search App is a web application that allows users to search for images
 - **Responsive Design**: Adapts to different screen sizes with a clean, user-friendly interface.
 - **Dynamic Results**: Displays image results dynamically with hover effects and clickable links.
 - **Show More Button**: Load more images without resetting the existing results.
+## Screenshot
+![imagesearchappdog](https://github.com/user-attachments/assets/b92c6789-7a10-44b2-8bad-bc17a4433953)
