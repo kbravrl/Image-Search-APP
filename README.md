@@ -1,4 +1,4 @@
-# Image-Search-App
+# JS-Image-Search-App
 
 ## Overview
 
